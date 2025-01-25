@@ -13,6 +13,7 @@
         "spotify"
         "ghostty"
         "firefox"
+        "appcleaner"
     ];
   };
 }
