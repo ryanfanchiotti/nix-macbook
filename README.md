@@ -4,4 +4,5 @@ Personal configuration for my MacBook \
 \
 **Notes:** \
 Homebrew needs to be installed separately \
-Icons on dock don't appear after first build but they will on following builds
+Icons on dock don't appear after first build but they will on following builds \
+Install Nix with the [Determinate Systems installer](https://github.com/DeterminateSystems/nix-installer) without the `--determinate` flag
