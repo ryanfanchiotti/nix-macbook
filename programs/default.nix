@@ -10,6 +10,7 @@
     bat
     imagemagick
     cargo
+    htop
   ];
 
   # Allow unfree packages  
