@@ -9,6 +9,7 @@
     ripgrep
     bat
     imagemagick
+    cargo
   ];
 
   # Allow unfree packages  
