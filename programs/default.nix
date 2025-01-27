@@ -8,6 +8,7 @@
     fastfetch
     ripgrep
     bat
+    imagemagick
   ];
 
   # Allow unfree packages  
