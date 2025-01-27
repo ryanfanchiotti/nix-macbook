@@ -11,7 +11,7 @@
         "discord"
         "vscodium"
         "spotify"
-        "ghostty"
+        "wezterm"
         "firefox"
         "appcleaner"
     ];

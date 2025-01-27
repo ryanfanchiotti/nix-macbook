@@ -12,7 +12,7 @@
       /System/Applications/Weather.app
       /System/Applications/Calendar.app
       /Applications/Firefox.app
-      /Applications/Ghostty.app
+      /Applications/WezTerm.app
     ];
 
     # Disable hot corner actions
