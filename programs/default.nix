@@ -11,6 +11,7 @@
     imagemagick
     cargo
     htop
+    typst
   ];
 
   # Allow unfree packages  
