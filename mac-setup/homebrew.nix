@@ -14,6 +14,7 @@
         "wezterm"
         "firefox"
         "appcleaner"
+        "utm"
     ];
   };
 }
