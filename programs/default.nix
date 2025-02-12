@@ -12,6 +12,7 @@
     cargo
     htop
     typst
+    tree
   ];
 
   # Allow unfree packages  
