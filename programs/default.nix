@@ -13,6 +13,7 @@
     htop
     typst
     tree
+    cmake
   ];
 
   # Allow unfree packages  
