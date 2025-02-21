@@ -1,6 +1,7 @@
 {
   imports = [
     ./dock.nix
+    ./control-center.nix
     ./homebrew.nix
   ];
 
