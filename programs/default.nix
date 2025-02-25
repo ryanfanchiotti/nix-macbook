@@ -14,6 +14,7 @@
     typst
     tree
     cmake
+    shellcheck
   ];
 
   # Allow unfree packages  

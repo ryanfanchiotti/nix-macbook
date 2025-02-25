@@ -4,5 +4,7 @@
     Bluetooth = false;
     FocusModes = true;
     NowPlaying = false;
+    BatteryShowPercentage = false;
+    AirDrop = false;
   };
 }
