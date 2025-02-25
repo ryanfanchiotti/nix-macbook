@@ -15,6 +15,7 @@
     tree
     cmake
     shellcheck
+    pandoc
   ];
 
   # Allow unfree packages  
