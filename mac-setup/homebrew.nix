@@ -15,6 +15,7 @@
         "firefox"
         "appcleaner"
         "utm"
+        "signal"
     ];
   };
 }
