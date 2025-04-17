@@ -16,6 +16,8 @@
     cmake
     shellcheck
     pandoc
+    haskell-language-server
+    ghc
   ];
 
   # Allow unfree packages  
