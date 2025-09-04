@@ -10,4 +10,7 @@
 
   # Backwards compatibility, read the changelog before changing: darwin-rebuild changelog
   system.stateVersion = 5;
+
+  # Set primary user
+  system.primaryUser = "ryanfanchiotti";
 }

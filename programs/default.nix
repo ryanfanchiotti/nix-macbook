@@ -18,6 +18,7 @@
     pandoc
     haskell-language-server
     ghc
+    fzf
   ];
 
   # Allow unfree packages  

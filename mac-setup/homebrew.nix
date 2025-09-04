@@ -6,16 +6,19 @@
     onActivation.autoUpdate = true;
 
     taps = [];
-    brews = [];
+    brews = [
+      "openconnect"
+    ];
     casks = [
-        "discord"
-        "vscodium"
-        "spotify"
-        "wezterm"
-        "firefox"
-        "appcleaner"
-        "utm"
-        "signal"
+      "discord"
+      "vscodium"
+      "spotify"
+      "wezterm"
+      "firefox"
+      "appcleaner"
+      "utm"
+      "signal"
+      "citrix-workspace"
     ];
   };
 }
