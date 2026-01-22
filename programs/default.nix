@@ -19,6 +19,9 @@
     haskell-language-server
     ghc
     fzf
+    openconnect
+    uv
+    docker
   ];
 
   # Allow unfree packages  

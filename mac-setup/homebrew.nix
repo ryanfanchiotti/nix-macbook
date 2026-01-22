@@ -6,9 +6,7 @@
     onActivation.autoUpdate = true;
 
     taps = [];
-    brews = [
-      "openconnect"
-    ];
+    brews = [];
     casks = [
       "discord"
       "vscodium"
@@ -18,7 +16,8 @@
       "appcleaner"
       "utm"
       "signal"
-      "citrix-workspace"
+      "slack"
+      "google-chrome"
     ];
   };
 }
