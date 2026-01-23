@@ -18,6 +18,7 @@
       "signal"
       "slack"
       "google-chrome"
+      "docker-desktop"
     ];
   };
 }

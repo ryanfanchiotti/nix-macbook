@@ -21,7 +21,7 @@
     fzf
     openconnect
     uv
-    docker
+    smlnj
   ];
 
   # Allow unfree packages  
