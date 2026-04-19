@@ -10,7 +10,6 @@
       "/System/Applications/Messages.app"
       "/System/Applications/Notes.app"
       "/System/Applications/Weather.app"
-      "/System/Applications/Calendar.app"
       "/Applications/Firefox.app"
       "/Applications/WezTerm.app"
     ];

@@ -19,6 +19,7 @@
       "slack"
       "google-chrome"
       "docker-desktop"
+      "sublime-text"
     ];
   };
 }
