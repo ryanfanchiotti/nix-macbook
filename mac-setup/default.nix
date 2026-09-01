@@ -13,4 +13,6 @@
 
   # Set primary user
   system.primaryUser = "ryanfanchiotti";
+
+  networking.hostName = "snivy";
 }
